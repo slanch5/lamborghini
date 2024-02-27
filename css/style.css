@@ -194,3 +194,28 @@ a {
 .info_table td {
    padding-bottom: 20px;
 }
+
+.track {
+   padding-bottom: 90px;
+   background-image: url(../images/gran_final_01\ 1\ bg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+.track_title {
+   padding-top: 50px;
+   padding-bottom: 30px;
+   font-size: 32px;
+   font-weight: 300;
+}
+
+.track_text {
+   max-width: 435px;
+}
+
+.track_img {
+   display: block;
+   margin: 0 auto;
+   margin-top: 250px;
+}
