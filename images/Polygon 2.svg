@@ -1,0 +1,19 @@
+<svg width="496.421875" height="570.912109" viewBox="0 0 496.422 570.912" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_33_290_dd" x="0.000000" y="0.000000" width="496.421875" height="570.912109" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="3.1954"/>
+			<feGaussianBlur stdDeviation="2.48531"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.62353 0 0 0 0 0.41961 0 0 0 0 0.031373 0 0 0 0.5 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_33_290_dd)"/>
+	<path id="Polygon 2" d="M7.45605 143.261L7.45605 421.261L248.211 560.261L488.966 421.261L488.966 143.261L248.211 4.26074L7.45605 143.261ZM8.45605 143.838L8.45605 420.684L248.211 559.106L487.966 420.683L487.966 143.838L248.211 5.41553L8.45605 143.838Z" fill="#9F6B08" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>

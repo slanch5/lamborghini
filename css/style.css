@@ -219,3 +219,140 @@ a {
    margin: 0 auto;
    margin-top: 250px;
 }
+
+.evo {
+   font-size: 14px;
+   margin-bottom: 100px;
+}
+
+.evo_black_inner {
+   position: relative;
+}
+
+.evo_black_inner::before {
+   content: '';
+   background-image: url(../images/Polygon\ 4.svg);
+   width: 185px;
+   height: 213px;
+   position: absolute;
+   top: 210px;
+   left: -130px;
+}
+
+.evo_black_inner::after {
+   content: '';
+   background-image: url(../images/Polygon\ 2.svg);
+   width: 498px;
+   height: 572px;
+   position: absolute;
+   top: 290px;
+   left: -40px;
+}
+
+
+
+.evo_black {
+   background-color: #363636;
+   padding: 100px 0 50px;
+   color: #fff;
+}
+
+.evo_black_info {
+   display: flex;
+   justify-content: space-between;
+
+}
+
+.evo_black_title {
+   text-transform: uppercase;
+   font-size: 32px;
+   font-weight: 300;
+   padding-right: 50px;
+}
+
+.evo_black_info_box {
+   flex-basis: 437px;
+}
+
+.evo_black_text {
+   font-size: 14px;
+   flex-basis: 437px;
+   margin-bottom: 30px;
+
+}
+
+.evo_img {
+   display: block;
+   margin: 170px auto 60px;
+   position: relative;
+   z-index: 1;
+}
+
+.evo_descr_list {
+   display: flex;
+   justify-content: center;
+   gap: 0 65px;
+}
+
+.evo_descr_list dd {
+   text-transform: uppercase;
+}
+
+.evo_white_inner {
+   padding-top: 125px;
+   position: relative;
+}
+
+.evo_white_inner::before {
+   content: '';
+   background-image: url(../images/Group\ 9.png);
+   width: 274px;
+   height: 257px;
+   position: absolute;
+   top: -40px;
+   left: 360px;
+}
+
+.evo_white_inner::after {
+   content: '';
+   background-image: url(../images/Group\ 3.png);
+   width: 324px;
+   height: 311px;
+   position: absolute;
+   top: 115px;
+   left: 600px;
+}
+
+.evo_white_text {
+   margin-bottom: 30px;
+}
+
+.evo_white_text:first-child {
+   max-width: 285px;
+}
+
+.evo_white_text:nth-child(2) {
+   max-width: 437px;
+}
+
+.evo_white_text:nth-child(3) {
+   max-width: 590px;
+}
+
+.evo_white_video {
+   margin-top: 100px;
+   background-image: url(../images/Polygon\ 6.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 264px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+.evo_white_video_link span {
+   display: block;
+   color: #fff;
+}
